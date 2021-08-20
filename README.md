@@ -1,2 +1,3 @@
 # TIP_CALCULATOR
-![download](https://user-images.githubusercontent.com/75363507/130239267-bb5a20cb-d934-401a-aed5-272f4e4074e5.png)
+![Tip-Em-Icon](https://user-images.githubusercontent.com/75363507/130243924-afe362fb-8948-48b2-8bb0-c6c3dc01f5a8.png)
+
